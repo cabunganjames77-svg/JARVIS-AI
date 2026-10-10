@@ -1,0 +1,6 @@
+{
+  "assistant_name": "JARVIS",
+  "wake_word_enabled": false,
+  "voice_enabled": false,
+  "computer_control_enabled": false
+}
